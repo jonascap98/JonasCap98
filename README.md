@@ -39,5 +39,5 @@ My areas of expertise and interest include system and network infrastructure, vi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascap98)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jonascap98)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jonascap98)-->
 
